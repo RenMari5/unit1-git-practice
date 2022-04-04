@@ -1,0 +1,106 @@
+### Step 2A
+/c/Users/12488
+
+### Step 2B
+$ cd /c/Users/12488/OneDrive/Desktop
+
+
+### Step 2C
+$ cd unit1-git-practice
+
+### Step 2D
+/c/Users/12488/OneDrive/Desktop/unit1-git-practice
+
+### Step 2E
+$ ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+$ cd ~
+$ cd ..
+$ cd ..
+
+### Step 2H
+/c/
+
+### Step 2I
+'$Recycle.Bin'/   Config.Msi/                OneDriveTemp/           Recovery/                     Windows/
+'$SysReset'/      CosairDram.txt             PerfLogs/              'System Volume Information'/   bootmgr
+'$WinREAgent'/    Dixper/                   'Program Files'/         SystemBoardInfo.txt           hiberfil.sys
+ 04E9CCB911C4    'Documents and Settings'@  'Program Files (x86)'/   SystemBoardInfoResult.txt     pagefile.sys
+ AMD/             DumpStack.log              ProgramData/            UVCDeviceControl.log          sentry/
+ BOOTNXT          DumpStack.log.tmp          RECentral/              Users/                        swapfile.sys
+
+### Step 2J
+$ cd ~
+
+### Step 2K
+$ cd /c/Users/12488/OneDrive/desktop/unit1-git-practice
+
+
+### Step 3A
+$ mkdir veggies
+$ mkdir meats
+$ mkdir desserts
+
+### Step 3B
+$ mv desserts sweets
+
+### Step 3C
+$ mkdir protiens
+
+### Step 3D
+$ mv meats protiens
+
+### Step 3E
+$ cd veggies/
+$ touch carrot.txt
+$ touch pea.txt
+
+### Step 3F
+$ cd ..
+$ cd sweets/
+$ touch cookie.txt
+
+### Step 3G
+$ mv cookie.txt donut.txt
+
+### Step 3H
+$ cd ..
+$ touch thing.txt
+
+### Step 3I
+$ cp thing.txt tofu.txt
+
+
+### Step 3J
+$ mv tofu.txt protiens
+
+### Step 3K
+$ cp thing.txt crab.txt
+$ mv crab.txt protiens/meats
+
+### Step 3L
+$ rm thing.txt
+
+### Step 3M
+$ cp -r veggies plants
+
+### Step 3N
+$ mkdir drinks
+$ rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
